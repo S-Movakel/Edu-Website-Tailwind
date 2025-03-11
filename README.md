@@ -6,7 +6,7 @@
 
 🖥️ **Developed BY**: ****--Mohammad Sajjad Movakel--****
 
-🛠️ **Technologies Used**: 📄 **HTML** - 🎨 **CSS** - **Tailwind4**
+🛠️ **Technologies Used**: 📄 **HTML** - 🎨 **CSS** - **TAILWIND4**
 
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
