@@ -12,14 +12,14 @@
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)]()
 
-## 👀 View Demo
+## 👀 VIEW DEMO
 🖥️ Please click on the **LINK** below to view the demo.
 
 
 
 
 
-## 🚀 My Project
+## 🚀 My PROJECT
 
 
 
