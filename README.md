@@ -1,12 +1,12 @@
 # Edu-Website-Tailwind
 
-**Responsive Edu** website with using **HTML** , **CSS** , **Tailwind4**
+**RESPONSIVE Edu** website with using **HTML** , **CSS** , **Tailwind4**
 
 
 
 🖥️ **Developed BY**: ****--Mohammad Sajjad Movakel--****
 
-🛠️ **Technologies Used**: 📄 **HTML** - 🎨 **CSS** - ****
+🛠️ **Technologies Used**: 📄 **HTML** - 🎨 **CSS** - **Tailwind4**
 
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
