@@ -1,6 +1,6 @@
 # Edu-Website-Tailwind
 
-**RESPONSIVE Eduu** website with using **HTML** , **CSS** , **TAILWIND**
+**RESPONSIVE Eduuu** website with using **HTML** , **CSS** , **TAILWIND**
 
 
 
