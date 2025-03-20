@@ -1,4 +1,4 @@
-# Edu-Website-Tailwindoooo
+# Edu-Website-Tailwindooo
 
 **RESPONSIVE Edu** website with using **HTML** , **CSS** , **TAILWIND**
 
