@@ -19,7 +19,7 @@
 ## 🚀 My PROJECT
 
 <p align="center">
-  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/preview1.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview1.png" alt="My Project" width="1200" />
 </p>
 
 ## 📧 CONTACT ME:
