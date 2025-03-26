@@ -20,6 +20,12 @@
 
 <p align="center">
   <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview1.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview2.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview3.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview4.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview5.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview6.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview7.png" alt="My Project" width="1200" />
 </p>
 
 ## 📧 CONTACT ME:
