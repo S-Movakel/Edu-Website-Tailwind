@@ -14,7 +14,7 @@
 
 
 [![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge&logo=css)](https://S-Movakel.github.io/Edu-Website-Tailwind)
-
+[View Project Demo](https://S-Movakel.github.io/Edu-Website-Tailwind)
 
 ## 🚀 My PROJECT
 
